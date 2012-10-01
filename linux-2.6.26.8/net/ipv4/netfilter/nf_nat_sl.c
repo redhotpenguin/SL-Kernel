@@ -5,9 +5,7 @@
    Thanks to Steve Edwards for help making this stuff work
    Thanks also to Patrick McHardy for resolving some issues
 
-   Copyright 2009 Silver Lining Networks
-   Portions of this module are licensed under the Silver Lining Networks
-   software license.
+   Copyright 2009-2012 Silver Lining Networks
 */
 
 #include <linux/kernel.h>
